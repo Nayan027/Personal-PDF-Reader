@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-perplexity
+langchain-community
+langchain-ollama
+pypdf
+
+
+dotenv
+ipykernel
+faiss-cpu
+streamlit
